@@ -1,0 +1,28 @@
+ROC curves for best models from CV
+getting files ...
+Model is not None : model = final
+/home/pl_vernhet/cookies_data/v1/final/r_1/
+model_logreg_l1.pkl
+model_RF_50.pkl
+final_logistic(accuracy based_Binarization preprocessed).pkl
+chosen final_logistic(accuracy based_Binarization preprocessed).pkl
+final_logistic(f1 based_Binarization preprocessed).pkl
+chosen final_logistic(f1 based_Binarization preprocessed).pkl
+final_randomForest(f1 based_Binarization preprocessed).pkl
+chosen final_randomForest(f1 based_Binarization preprocessed).pkl
+final_logistic(roc_auc based_Binarization preprocessed).pkl
+chosen final_logistic(roc_auc based_Binarization preprocessed).pkl
+final_logistic(recall based_Binarization preprocessed).pkl
+chosen final_logistic(recall based_Binarization preprocessed).pkl
+final_randomForest(accuracy based_Binarization preprocessed).pkl
+chosen final_randomForest(accuracy based_Binarization preprocessed).pkl
+final_randomForest(recall based_Binarization preprocessed).pkl
+chosen final_randomForest(recall based_Binarization preprocessed).pkl
+model_logreg_l2.pkl
+final_randomForest(roc_auc based_Binarization preprocessed).pkl
+chosen final_randomForest(roc_auc based_Binarization preprocessed).pkl
+model_RF_100.pkl
+out.txt
+Models loaded
+['final_logistic(accuracy based_Binarization preprocessed)', 'final_logistic(f1 based_Binarization preprocessed)', 'final_randomForest(f1 based_Binarization preprocessed)', 'final_logistic(roc_auc based_Binarization preprocessed)', 'final_logistic(recall based_Binarization preprocessed)', 'final_randomForest(accuracy based_Binarization preprocessed)', 'final_randomForest(recall based_Binarization preprocessed)', 'final_randomForest(roc_auc based_Binarization preprocessed)']
+colors generation
